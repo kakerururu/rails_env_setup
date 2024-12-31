@@ -1,0 +1,5 @@
+AllCops:
+  NewCops: enable # 新しいルールをデフォルトで有効化する
+
+Layout/IndentationWidth:
+  Width: 2
